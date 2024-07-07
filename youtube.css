@@ -1,4 +1,4 @@
-.h2-class{
+.h2-class {
     color: rgb(0, 255, 34);
 }
 .content-class{
@@ -6,4 +6,9 @@ background-color: beige;
 }
 .head-class {
     color: red;
+}
+
+.footer-class {
+    bottom: 10px;
+    position: absolute;
 }
